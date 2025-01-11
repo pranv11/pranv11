@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 Currently working on machine learning models<br>🤔 Interested in quant trading and algorithm trading <br>👯 Looking to collaborate on machine learning and Artificial intelligence project <br>💬 Ask me about Mathematic, Physics, Data Science, Finance and Philosophy<br>⚡ Interested in: Mathematics, Physics, Astronomy, Geopolitics, Finance, Philosophy, Soccer, F1 and Chess
+🌱 Currently working on machine learning models<br>🤔 Interested in quant trading and algorithm trading <br>👯 Looking to collaborate on machine learning and Artificial intelligence project <br>⚡ Interested in: Mathematics, Physics, Astronomy, Geopolitics, Finance, Philosophy, Soccer, F1 and Chess
 
 
 ## 🌐 Socials:
